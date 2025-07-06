@@ -1,0 +1,16 @@
+{
+  "name": "7.venv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "cls && node --env-file=.env.data --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
